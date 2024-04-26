@@ -13,6 +13,8 @@
     "@reduxjs/toolkit": "^2.2.3",
     "firebase": "^10.11.0",
     "flowbite-react": "^0.7.2",
+    "gulp-header": "^2.0.9",
+    "lodash.template": "^4.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
